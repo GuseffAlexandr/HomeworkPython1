@@ -1,0 +1,4 @@
+2024-10-25 23:29:46.677795 | hello_world | args: (), kwargs: {} | result: Hello World
+2024-10-25 23:29:46.678805 | summator | args: (2, 2), kwargs: {} | result: 4
+2024-10-25 23:29:46.678805 | div | args: (6, 2), kwargs: {} | result: 3.0
+2024-10-25 23:29:46.679786 | summator | args: (4.3,), kwargs: {'b': 2.2} | result: 6.5
